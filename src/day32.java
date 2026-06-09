@@ -4,6 +4,7 @@ void main() {
     for (int i = 0;i< marks.length;i++) {
         if(marks[i] >= 40) {
             System.out.print(marks[i] + " ");
+
         }
     }
     System.out.println();

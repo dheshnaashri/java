@@ -1,6 +1,5 @@
-
- / void main(){
- / int n = 5;
+void main(){
+  int n = 5;
     //row loop
     for (int row = 1; row <= n; row++) {
         //column loop
