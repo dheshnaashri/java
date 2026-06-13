@@ -138,15 +138,15 @@ public class Day7Interface {
 
         Employee emp1 = new BankEmployee("subasree sj", "B101", 50000);
         Employee emp2 = new CheckingEmployee("joseph", "C102", 45000);
-        System.out.println("--------------------------------");
+        System.out.println("");
         emp1.work();
         System.out.println();
         emp1.solveProblem();
-        System.out.println("--------------------------------");
+        System.out.println("");
         emp2.work();
         System.out.println();
         emp2.solveProblem();
-        System.out.println("--------------------------------");
+        System.out.println("");
 
     }
 }
